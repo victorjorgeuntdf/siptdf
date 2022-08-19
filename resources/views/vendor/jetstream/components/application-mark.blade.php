@@ -1,0 +1,1 @@
+<img src="img/minilogo2021.png" />
